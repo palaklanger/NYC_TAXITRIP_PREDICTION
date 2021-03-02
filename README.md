@@ -3,8 +3,7 @@
 Based on individual trip attributes, predict the duration of each trip in the test set.
 
 File descriptions
-train.csv - the training set (contains 1458644 trip records)
-test.csv - the testing set (contains 625134 trip records)
+train.csv - the training set (contains 1458644 trip records)  test.csv - the testing set (contains 625134 trip records)
 sample_submission.csv - a sample submission file in the correct format
 
 Data fields
