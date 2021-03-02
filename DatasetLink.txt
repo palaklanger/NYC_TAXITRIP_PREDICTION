@@ -1,0 +1,14 @@
+Dataset Used : Our primary dataset used was NYC Commission and Limousine Dataset as described below -
+
+Primary :
+Input.csv : NYC ​ ​Taxi ​ ​and Limousine ​ ​Commission dataset           
+                  published on kaggle
+	   https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+
+External :
+1.Weather.csv : retrieved from National weather Service Forecast Office
+Link :http://w2.weather.gov/climate/xmacis.php?wfo=okx
+
+
+2.fastest_routes.csv : OSRM api was used to extract information about the fastest routes for each data point.
+The Open Source Routing Machine or OSRM is a C++ implementation of a high-performance routing engine for shortest path.
